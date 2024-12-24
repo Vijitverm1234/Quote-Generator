@@ -1,4 +1,4 @@
-# App Name
+# EchoQuotes
 
 <div align="center">
 <img width="509" alt="output" src="https://github.com/user-attachments/assets/8c817333-e34a-4085-ad19-43f86579e846"  width="300" />
